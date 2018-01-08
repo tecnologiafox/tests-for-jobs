@@ -16,10 +16,11 @@ Cada pedido tem um controle que permite:
 * Editar
 
 A página principal também tem um link para uma página de criação que permite que você cadastre novos pedidos. Essa página deve conter inputs para cadastrar os seguintes valores:
-* Id
+* Id - auto
 * Produto
 * Preço
 * Imagem
+* Data de criação
 
 **Atenção:** Os valores acima servem como referência para a criação do banco de dados.
 
@@ -49,6 +50,8 @@ As especificações do projeto são sua fonte de consulta ao desenvolvê-lo. Sal
 ## Diferencial²
 Lembre que seu projeto poderá ser nomeado por excelência pelo nossos revisores! Por isso, fique à vontade para adicionar novos recursos, tecnologias, etc. Aproveite para aplicar no projeto tudo aquilo que você sabe. Desafie-se, pois você aprende muito mais quando tenta algo novo. Apenas lembre que os recursos adicionados não podem interferir nas especificações.
 
+Garantir que todas as urls públicas da sua aplicação possuem validam os inputs da operação.
+
 Para entender melhor como seu projeto pode ser diferenciado, confira o último item das especificações do projeto.
 
 ## Instruções de envio
@@ -75,6 +78,8 @@ abcde...
 | A página principal exibe uma lista com todos os pedidos criados? | A página principal exibe todos os pedidos criados. |
 | A página principal tem um input de busca, que permite que os usuários procurem por pedidos? | A página principal possui um campo de busca. Quando o usuário digita algo no campo de busca, os pedidos relacionados à sua busca são corretamente exibidos na página. |
 | A página principal permite que o usuário exclua um pedido? | A página principal possui um botão para excluir pedidos. Quando o usuário clica neste botão, o pedido é excluído da lista. |
+| editar | ... |
+| mostrar miniatura da imagem | ... |
 | As informações são mantidas quando ocorrem refreshes de página? | Quando é feito refresh no navegador, a página continua exibindo as mesmas informações. |
 | Os resultados de busca permitem que um usuário continue excluindo os pedidos? | Os resultados da busca permitem que os usuários excluam mais pedidos normalmente. |
 | A página principal tem um link para a página de criação de pedidos? | A página principal tem um link que leva o usuário para a página de criação de pedidos. |
@@ -85,15 +90,20 @@ abcde...
 
 | CRITÉRIO        | ATENDEU ÀS ESPECIFICAÇÕES |
 | -------------   |-------------------------|
-| ... | ... |
+| Tem os campos com seus tipos definidos, qualquer coisa invalida nao pode entrar no banco | ... |
+| data de criação (formato brasileiro) não pode ser > que a data atual | ... |
+| Campos obrigatorios | ... |
+| botões savar e voltar (pra pagina principal)
+| Ao salvar ir para a home | ... |
 
 <br>
 
 **Página de edição**
+Atender todos os critérios da página de criação.
 
 | CRITÉRIO        | ATENDEU ÀS ESPECIFICAÇÕES |
 | -------------   |-------------------------|
-| ... | ... |
+| não pode alterar id | ... |
 
 <br>
 
@@ -101,14 +111,8 @@ abcde...
 
 | CRITÉRIO        | ATENDEU ÀS ESPECIFICAÇÕES |
 | -------------   |-------------------------|
-| ... | ... |
-
-<br>
-
-**Funcionalidade do código**
-
-| CRITÉRIO        | ATENDEU ÀS ESPECIFICAÇÕES |
-| -------------   |-------------------------|
+| Validação dos dados do input  | ... |
+| comentários relevantes de código | ... |
 | ... | ... |
 
 <br>
