@@ -18,7 +18,7 @@ Cada pedido tem um controle que permite:
 A página principal também tem um link para uma página de criação que permite que você cadastre novos pedidos. Essa página deve conter inputs para cadastrar os seguintes valores:
 * Id
 * Produto
-* Valor
+* Preço
 * Imagem
 
 **Atenção:** Os valores acima servem como referência para a criação do banco de dados.
