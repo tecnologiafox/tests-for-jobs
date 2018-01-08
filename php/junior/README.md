@@ -55,6 +55,7 @@ Para entender melhor como seu projeto pode ser diferenciado, confira o último i
 Envie seu projeto no GitHub, certificando-se de fazer o push no branch master. E envie para o e-mail de contato do seu recrutador o link do seu projeto.
 
 ## Está travado no projeto? Tem perguntas?
+abcde...
 
 # ESPECIFICAÇÕES DO PROJETO
 
@@ -64,6 +65,8 @@ Envie seu projeto no GitHub, certificando-se de fazer o push no branch master. E
 | -------------   |-------------------------|
 | É fácil instalar e iniciar a aplicação? | A aplicação foi criada com o composer e exige apenas o composer install para ser instalada e iniciada. |
 | A aplicação inclui o README, com instruções claras de instalação e inicialização? | Um README está incluído no projeto. O README inclui instruções para instalação e inicialização do projeto. |
+
+<br>
 
 **Página principal**
 
@@ -75,11 +78,15 @@ Envie seu projeto no GitHub, certificando-se de fazer o push no branch master. E
 | As informações são mantidas quando ocorrem refreshes de página? | Quando é feito refresh no navegador, a página continua exibindo as mesmas informações. |
 | Os resultados de busca permitem que um usuário continue excluindo os pedidos? | Os resultados da busca permitem que os usuários excluam mais pedidos normalmente. |
 
+<br>
+
 **Página de criação**
 
 | CRITÉRIO        | ATENDEU ÀS ESPECIFICAÇÕES |
 | -------------   |-------------------------|
 | ... | ... |
+
+<br>
 
 **Página de edição**
 
@@ -87,11 +94,7 @@ Envie seu projeto no GitHub, certificando-se de fazer o push no branch master. E
 | -------------   |-------------------------|
 | ... | ... |
 
-**Funcionalidade do código**
-
-| CRITÉRIO        | ATENDEU ÀS ESPECIFICAÇÕES |
-| -------------   |-------------------------|
-| ... | ... |
+<br>
 
 **Funcionalidade do código**
 
@@ -99,7 +102,17 @@ Envie seu projeto no GitHub, certificando-se de fazer o push no branch master. E
 | -------------   |-------------------------|
 | ... | ... |
 
+<br>
+
 **Funcionalidade do código**
+
+| CRITÉRIO        | ATENDEU ÀS ESPECIFICAÇÕES |
+| -------------   |-------------------------|
+| ... | ... |
+
+<br>
+
+**Diferencial, não obrigatório**
 
 | CRITÉRIO        | ATENDEU ÀS ESPECIFICAÇÕES |
 | -------------   |-------------------------|
