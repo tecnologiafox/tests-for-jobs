@@ -77,6 +77,7 @@ abcde...
 | A página principal permite que o usuário exclua um pedido? | A página principal possui um botão para excluir pedidos. Quando o usuário clica neste botão, o pedido é excluído da lista. |
 | As informações são mantidas quando ocorrem refreshes de página? | Quando é feito refresh no navegador, a página continua exibindo as mesmas informações. |
 | Os resultados de busca permitem que um usuário continue excluindo os pedidos? | Os resultados da busca permitem que os usuários excluam mais pedidos normalmente. |
+| A página principal tem um link para a página de criação de pedidos? | A página principal tem um link que leva o usuário para a página de criação de pedidos. |
 
 <br>
 
