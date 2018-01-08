@@ -15,7 +15,7 @@ Cada pedido tem um controle que permite:
 * Excluir
 * Editar
 
-A página principal também tem um link para `/criar`, uma página de criação que permite que você cadastre novos pedidos. Essa página deve conter inputs para cadastrar os seguintes valores:
+A página principal também tem um link para uma página de criação que permite que você cadastre novos pedidos. Essa página deve conter inputs para cadastrar os seguintes valores:
 * Id
 * Produto
 * Valor
