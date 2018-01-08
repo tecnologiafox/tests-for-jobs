@@ -27,6 +27,8 @@ A página principal também tem um link para uma página de criação que permit
 A página principal possui uma entrada de texto que pode ser usada para encontrar pedidos. À medida que o valor da entrada de texto muda, os pedidos que correspondem a essa consulta são exibidos na página, juntamente a um controle que permite editar ou excluir esse pedido. Para manter a interface consistente, você pode considerar a reutilização de algum código que usou para exibir todos os pedidos na página principal.
 
 ## Requisitos de envio
+Este projeto foi definido para ser desenvolvido em 20 horas úteis.
+
 Seu projeto deve incluir todos os arquivos necessários para instalar e iniciar sua aplicação em um servidor web local. Você pode supor que seu revisor terá o composer instalado na máquina dele.
 
 ## Considerações
